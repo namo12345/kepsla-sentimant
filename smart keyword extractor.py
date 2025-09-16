@@ -332,7 +332,7 @@ def main():
 
     # Input and output files
     input_file = r"c:\Users\venky\Desktop\full pipeline 2\200 reviews.csv"
-    output_file = r"c:\Users\venky\Desktop\full pipeline 2\keywords_no_sentiment.csv"
+    output_file = r"c:\Users\venky\Desktop\full pipeline 2\keywords_domain specfic.csv"
 
     print("=== Smart Keyword Extractor (No Sentiment) ===")
     print("Extracting high-quality keywords from customer reviews...")
